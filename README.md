@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/smruti-123-lang/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/smruti-123-lang/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/smruti-123-lang/DSA/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/smruti-123-lang/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/smruti-123-lang/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/smruti-123-lang/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/smruti-123-lang/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/smruti-123-lang/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/smruti-123-lang/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/smruti-123-lang/DSA/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/smruti-123-lang/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/smruti-123-lang/DSA/tree/master/1472-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smruti-123-lang/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -510,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/smruti-123-lang/DSA/tree/master/1472-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/smruti-123-lang/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
