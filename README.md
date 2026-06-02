@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/smruti-123-lang/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/smruti-123-lang/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/smruti-123-lang/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/smruti-123-lang/DSA/tree/master/1472-design-browser-history) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/smruti-123-lang/DSA/tree/master/0155-min-stack) |
 | [1472-design-browser-history](https://github.com/smruti-123-lang/DSA/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
