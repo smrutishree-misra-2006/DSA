@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/smruti-123-lang/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/smruti-123-lang/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/smruti-123-lang/DSA/tree/master/1929-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/smruti-123-lang/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/smruti-123-lang/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/smruti-123-lang/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/smruti-123-lang/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/smruti-123-lang/DSA/tree/master/1472-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smruti-123-lang/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2104-sum-of-subarray-ranges](https://github.com/smruti-123-lang/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
@@ -529,4 +531,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/smruti-123-lang/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/smruti-123-lang/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/smruti-123-lang/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/smruti-123-lang/DSA/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
