@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/smruti-123-lang/DSA/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/smruti-123-lang/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/smruti-123-lang/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/smruti-123-lang/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/smruti-123-lang/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/smruti-123-lang/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smruti-123-lang/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/smruti-123-lang/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/smruti-123-lang/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/smruti-123-lang/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/smruti-123-lang/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/smruti-123-lang/DSA/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/smruti-123-lang/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/smruti-123-lang/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
