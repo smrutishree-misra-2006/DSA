@@ -17,6 +17,7 @@ public:
         }
 
         int i = 0;
+        // if in format 00123
         while (i < st.size() && st[i] == '0') {
             i++;
         }
