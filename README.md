@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/smruti-123-lang/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0696-count-binary-substrings](https://github.com/smruti-123-lang/DSA/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/smruti-123-lang/DSA/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/smruti-123-lang/DSA/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/smruti-123-lang/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1328-break-a-palindrome](https://github.com/smruti-123-lang/DSA/tree/master/1328-break-a-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/smruti-123-lang/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -578,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/smruti-123-lang/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/smruti-123-lang/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/smruti-123-lang/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/smruti-123-lang/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
