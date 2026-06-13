@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/smruti-123-lang/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/smruti-123-lang/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3838-weighted-word-mapping](https://github.com/smruti-123-lang/DSA/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/smruti-123-lang/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/smruti-123-lang/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smruti-123-lang/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3838-weighted-word-mapping](https://github.com/smruti-123-lang/DSA/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/smruti-123-lang/DSA/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smruti-123-lang/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3477-fruits-into-baskets-ii](https://github.com/smruti-123-lang/DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/smruti-123-lang/DSA/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
