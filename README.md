@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/smruti-123-lang/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/smruti-123-lang/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/smruti-123-lang/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/smruti-123-lang/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/smruti-123-lang/DSA/tree/master/0078-subsets) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/smruti-123-lang/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/smruti-123-lang/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/smruti-123-lang/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/smruti-123-lang/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/smruti-123-lang/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/smruti-123-lang/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/smruti-123-lang/DSA/tree/master/0141-linked-list-cycle) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/smruti-123-lang/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/smruti-123-lang/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/smruti-123-lang/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/smruti-123-lang/DSA/tree/master/0085-maximal-rectangle) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/smruti-123-lang/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
